@@ -4,6 +4,8 @@ This repository provides the necessary files and instructions to build and run t
 
 (Similar tutorial for RegCM: [github.com/Erunno/regcm-in-clouds](https://github.com/Erunno/regcm-in-clouds) ... you can also find a couple of useful notes there [github.com/Erunno/regcm-in-clouds/blob/main/notes.md](https://github.com/Erunno/regcm-in-clouds/blob/main/notes.md))
 
+Other tutorials like linking the C++ code with the ELMM can be found in [./tutorials](./tutorials/).
+
 ## ⚠️ Prerequisites
 
 All commands must be run from a **worker node** on your cluster. You can get one by running `salloc` or prefixing your commands with `srun`.
